@@ -13,4 +13,4 @@ This Excel project provides a data-driven analysis of Vrinda Store’s performan
 ## Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
 
-📁 File: `project_excel1.xlsx`
+📁 File: `vrinda_store_analysis.xlsx`
